@@ -9,7 +9,7 @@ class LoggingMixin:
         print('Log: end')
 
 class AuthRequiredMixin:
-    def __init__(self, authed=True):
+    def __init__(self, authed):
         self.authed = authed
 
     def render(self):
@@ -26,9 +26,9 @@ class AdminPageView(LoggingMixin, AuthRequiredMixin, BaseView):
         print('Admin page render end')
 
 print('\nАвторизированный пользователь:')
-admin_page = AdminPageView(authed=True)
+admin_page = AdminPageView(True)
 admin_page.render()
 
 print('\nНеавторизированный пользователь:')
-admin_page_2 = AdminPageView(authed=False)
+admin_page_2 = AdminPageView(False)
 admin_page_2.render()
