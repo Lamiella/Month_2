@@ -10,9 +10,8 @@ class Car(Vehicle):
 class ElectricCar(Vehicle):
     def start(self):
         super().start()
-        print('ElectricCar ready')
 
-class Tesla(ElectricCar, Car):
+class Tesla(Car, ElectricCar):
     def start(self):
         super().start()
         print('Tesla ready')
