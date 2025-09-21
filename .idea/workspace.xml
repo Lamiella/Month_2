@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff04a47d-ed7b-4bab-a04f-844cc3bd475a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Month_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Month_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/homework_6_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework_6_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +45,7 @@
     "Python.homework_4.executor": "Run",
     "Python.homework_4_1.executor": "Run",
     "Python.homework_5.executor": "Run",
+    "Python.homework_6_1.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
@@ -70,7 +55,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hw5",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Python/PythonProjects/Month_2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -82,7 +67,7 @@
       <recent name="C:\Users\vetal\PycharmProjects\Month_2\lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.homework_5">
+  <component name="RunManager" selected="Python.homework_6_1">
     <configuration name="distance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Month_2" />
       <option name="ENV_FILES" value="" />
@@ -127,28 +112,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Month_2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\vetal\PycharmProjects\Month_2\homeworks\homework_4_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="homework_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Month_2" />
       <option name="ENV_FILES" value="" />
@@ -163,6 +126,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/homework_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Month_2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homeworks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homeworks/homework_6_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.homework_6_1" />
         <item itemvalue="Python.homework_5" />
         <item itemvalue="Python.distance" />
         <item itemvalue="Python.lesson_5" />
         <item itemvalue="Python.homework_4" />
-        <item itemvalue="Python.homework_4_1" />
       </list>
     </recent_temporary>
   </component>
