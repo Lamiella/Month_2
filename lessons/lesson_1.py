@@ -14,16 +14,17 @@ class Car: # названия классов по принципу PascalCase - 
     def drive_to_location(self, location): # названия методов по принципу snake_case - каждое слово через '_'
         print(f'Car {self.model} is driving to {location}')
 
-car_honda = Car('silver', 'honda') # объект класса (экземпляр, instance)
-print(car_honda)
+if __name__ == '__main__': # чтобы код запускался только в этом файле
+    car_honda = Car('silver', 'honda') # объект класса (экземпляр, instance)
+    print(car_honda)
 
-car_subaru = Car('black', 'subaru')
-print(car_subaru)
+    car_subaru = Car('black', 'subaru')
+    print(car_subaru)
 
-car_subaru.drive_to_location('Bishkek')
-car_honda.color = 'red'
+    car_subaru.drive_to_location('Bishkek')
+    car_honda.color = 'red'
 
-print(f'Car color: {car_honda.color}, model: {car_honda.model}')
-print(f'Car color: {car_subaru.color}, model: {car_subaru.model}')
+    print(f'Car color: {car_honda.color}, model: {car_honda.model}')
+    print(f'Car color: {car_subaru.color}, model: {car_subaru.model}')
 
-print(type(car_honda))
+    print(type(car_honda))
